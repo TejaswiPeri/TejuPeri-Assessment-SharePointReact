@@ -1,0 +1,13 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "acg-dts-code-test-spfx-client-side-solution",
+    "id": "eb4893a2-3e38-44c4-aa35-fd45a51c2409",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "isDomainIsolated": false
+  },
+  "paths": {
+    "zippedPackage": "solution/acg-dts-code-test-spfx.sppkg"
+  }
+}
